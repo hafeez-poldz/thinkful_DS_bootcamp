@@ -1,0 +1,14 @@
+1. Be positive
+
+Given: 
+
+P(sufferer) = 0.005
+P(positive test|sufferer) = 0.98
+P(positive test|healthy) = 0.1
+
+P(suffering) = 0.005 * 0.98 + 0.995 * 0.1 = 0.1044
+
+Correctly diagnose a sufferer of Thripshaw's: P(posivite test|sufferer) = 0.98
+Correctly identify a non-sufferer of Thripshaw's: P(negative test|healthy) = 0.9
+Misclassify the person: 
+1-(P(positive test|sufferer) * P(sufferer) + P(negative test|healthy) * P(sufferer~)) = 1- 0.98 * 0.005 + 0.9 * 0.995 = 0.0996

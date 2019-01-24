@@ -1,0 +1,14 @@
+Data Source: Amsterdam availability data scraped from AirBnB on December 24th.
+Question: What are the popular neighborhoods in Amsterdam?
+Answer: December 24th is Christmas Day. There are 2 possible scenarios:
+1. It's holiday and people are travelling. The more people in vacation, the more demand on Airbnb 
+2. As it's holiday, people may want to spend their time with their family or just at their own home. And would not share their places.
+We need to choose another day of the year for sampling or remake the question highlighting the popular neighborhoods of Amsterdam during holidays.
+
+Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. 
+Question: How do patterns of mental health service use vary between cities?
+Answer: The terrorist attack to NYC occured on September 11, 2001. However, it was regular day in SF. Mental health services use in two cities is most probably different. We can reframe the question to: "how do patterns of mental health service use vary before and after that unpleasent event?"
+
+Data Source: Armenian Pub Survey. 
+Question: What are the most common reasons Armenians visit local pubs?
+Answer: all of respondenst are students. We can chnage the question to: "For what reasons do Armenian studends visit local pubs mostly?
